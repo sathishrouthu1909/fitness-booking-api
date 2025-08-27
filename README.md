@@ -151,9 +151,9 @@ The API is production-ready and can be deployed to:
 
 ## 👨‍💻 Developer
 
-**Abhishek Vats**  
+**Sathish Routhu**  
 Python Developer | Full Stack API Development  
-📧 Contact: [your-email@example.com]  
+📧 Contact: [Sathishrouthu1@gmail.com]  
 🔗 GitHub: [@sathishrouthu1909]https://github.com/sathishrouthu1909/fitness-booking-api
 
 ---
