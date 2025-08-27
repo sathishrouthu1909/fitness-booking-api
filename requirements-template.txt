@@ -1,0 +1,8 @@
+# Minimal template (adjust to your project; prefer `pip freeze`)
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+python-jose
+passlib[bcrypt]
+requests

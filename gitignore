@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local DBs / SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# VSCode
+.vscode/
